@@ -5,3 +5,6 @@
 
 ### [TypeHero](https://typehero.dev/@IgorBarbashov/)
 - [Great for Beginners](typehero/beginners)
+
+### [CodeRun](https://coderun.yandex.ru/catalog)
+- [Frontend](coderun/frontend): [[easy]](coderun/frontend/easy)
