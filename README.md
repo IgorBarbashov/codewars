@@ -7,4 +7,4 @@
 - [Great for Beginners](typehero/beginners)
 
 ### [CodeRun](https://coderun.yandex.ru/catalog)
-- [Frontend](coderun/frontend): [[easy]](coderun/frontend/easy)
+- [Frontend](coderun/frontend_and_core_js): [[easy]](coderun/frontend_and_core_js/easy)
